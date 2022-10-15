@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PPB/Biodata/app/src/main/res/layout/bagian_alamat.xml" value="0.2" />
+        <entry key="..\:/PPB/Biodata/app/src/main/res/layout/bagian_awal.xml" value="0.264" />
+        <entry key="..\:/PPB/aplikasiku_13338/app/src/main/res/layout/bagian_alamat.xml" value="0.2" />
+        <entry key="..\:/PPB/aplikasiku_13338/app/src/main/res/layout/bagian_awal.xml" value="0.1" />
+        <entry key="..\:/PPB/aplikasiku_13338/app/src/main/res/layout/bagian_email.xml" value="0.4" />
+        <entry key="..\:/PPB/aplikasiku_13338/app/src/main/res/layout/bagian_kontak.xml" value="0.264" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2045" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2045" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout-land/activity_main.xml" value="0.43243243243243246" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/activity_alamat.xml" value="0.10989583333333333" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/activity_main2.xml" value="0.176" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/alamat.xml" value="0.1" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/bagian_alamat.xml" value="0.1" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/bagian_awal.xml" value="0.33" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/bagian_email.xml" value="0.24230072463768115" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/bagian_kontak.xml" value="0.24230072463768115" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/homelayoutButton.xml" value="0.25" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/intent.xml" value="0.3111413043478261" />
+        <entry key="..\:/aplikasiku_13338/app/src/main/res/layout/secondlayoutButton.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
